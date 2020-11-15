@@ -1,5 +1,5 @@
-# Website
-To visit the website, please click [here](https://fikafinder.herokuapp.com/)
+# Fika Finder Website
+To visit Fika Finder, please click [here](https://fikafinder.herokuapp.com/)
 
 # Backend and Frontend Template
 
