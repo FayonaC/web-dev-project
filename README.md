@@ -1,3 +1,6 @@
+# Website
+To visit the website, please click [here](https://fikafinder.herokuapp.com/)
+
 # Backend and Frontend Template
 
 Latest version: https://github.com/dit341/group-00-web
